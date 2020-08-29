@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to the Crack World
 
-You can use the [editor on GitHub](https://github.com/sakib1971/123.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Team matrix](https://www.facebook.com/teammatrixx), a powerfull crack squad in Bangladesh💎<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Connect if you hungry for resources<br>
+🔰[Facebook Group](https://www.facebook.com/groups/teammatrixx)<br>
+🔰[Telegram](https://t.me/teammatrixx)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Soft. by TEAM MATRIX
+[All Adobe Software](https://bit.ly/2DgQOEY)<br>
 
-```markdown
-Syntax highlighted code block
+[Microsoft All Software] (https://bit.ly/3307ICs)<br>
 
-# Header 1
-## Header 2
-### Header 3
+[Others PC Software](https://bit.ly/3f2SXkx) <br>
+ 
+ <no need of any key just install online/offline>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sakib1971/123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
