@@ -7,10 +7,10 @@ Connect if you hungry for resources<br>
 🔰[Facebook Group](https://www.facebook.com/groups/teammatrixx)<br>
 🔰[Telegram](https://t.me/teammatrixx)
 
-###Soft. by TEAM MATRIX
+###Soft. by TEAM MATRIX <br>
 [All Adobe Software](https://bit.ly/2DgQOEY)<br>
 
-[Microsoft All Software] (https://bit.ly/3307ICs)<br>
+[Microsoft All Software](https://bit.ly/3307ICs)<br>
 
 [Others PC Software](https://bit.ly/3f2SXkx) <br>
  
